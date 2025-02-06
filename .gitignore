@@ -169,3 +169,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+spike_trains_C3.pkl
+spike_trains_F4.pkl
